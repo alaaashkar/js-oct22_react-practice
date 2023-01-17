@@ -2,31 +2,31 @@ export default [
   {
     id: 1,
     title: 'Grocery',
-    icon: ':bread:',
+    icon: '🍞',
     ownerId: 2,
   },
   {
     id: 2,
     title: 'Drinks',
-    icon: ':beer:',
+    icon: '🍺',
     ownerId: 1,
   },
   {
     id: 3,
     title: 'Fruits',
-    icon: ':green_apple:',
+    icon: '🍏',
     ownerId: 2,
   },
   {
     id: 4,
     title: 'Electronics',
-    icon: ':computer:',
+    icon: '💻',
     ownerId: 1,
   },
   {
     id: 5,
     title: 'Clothes',
-    icon: ':womans_clothes:',
+    icon: '👚',
     ownerId: 3,
   },
 ];
